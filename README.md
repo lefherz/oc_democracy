@@ -4,6 +4,15 @@ Imagine you could install citizen rights with one mouseclick.
 
 ## Background
 
+Code is law - and the part of our life that happens in cyberspace, follows
+certain rules and configurations. Should those rules be made by the sysadmin,
+by the state, by the company, or by the users?
+
+Platforms have emerged both as business models and as power structures. Their
+power comes from their users, their monopoly from network effects. How can
+users protect their autonomy in an environment where competition doesn't
+work?
+
 Few platforms govern the Internet - Google, Amazon, Facebook, Apple, and
 Microsoft divide the world up between them. ownCloud wants to challenge their
 power by replacing some of their proprietary services, but this is a long road,

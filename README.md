@@ -41,9 +41,11 @@ such an app - join me!
 
 ## Concept
 
-Why? in platform capitalism, users should have more power. decentralization helps - but platform-internal democracy is even better.
-What? let users participate in their ownCloud
-How? through an app, users can discuss and vote on topics.
+**Why?** In platform capitalism, users should have more power. Decentralization helps - but platform-internal democracy is even better.
+
+**What?** Let users participate in their ownCloud.
+
+**How?** Through an app, users can discuss and vote on topics.
 
 ### Feature Brainstorming
 

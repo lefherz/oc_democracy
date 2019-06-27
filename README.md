@@ -30,3 +30,32 @@ them.
 As soon as https://github.com/owncloud/phoenix/ is ready, I want to work on
 such an app - join me!
 
+## Concept
+
+Why? in platform capitalism, users should have more power. decentralization helps - but platform-internal democracy is even better.
+What? let users participate in their ownCloud
+How? through an app, users can discuss and vote on topics.
+
+### Feature Brainstorming
+
+Ideas welcome!
+
+Transparency:
+
+* Who is admin, how to contact them
+* Which apps are installed
+* Disk usage - is my data limit fair?
+* How is the server configured?
+* How much does the setup cost monthly? Who pays for it?
+
+Board:
+
+* A (minimalistic) board with topics concerning the ownCloud - e.g. extension
+  requests, configuration requests
+
+Polls:
+
+* Which apps should be installed?
+* How big should data limits be?
+* Do we want this or that configuration?
+
